@@ -20,7 +20,7 @@ const Register = () => {
     const doSignIn = (e) => {
         authentication.doRegisterUser(user)
         navigate("/login")
-        alert('Registrasi berhasil')
+        alert('Register berhasil')
         e.preventDefault()
     }
 

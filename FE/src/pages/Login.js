@@ -15,7 +15,7 @@ const Login = () => {
         if (status) {
             navigate('/dashboard')
         } else {
-            alert('Tidak bisa login')
+            alert('gagal login')
         }
     }
 

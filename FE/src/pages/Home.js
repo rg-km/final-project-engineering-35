@@ -11,7 +11,7 @@ const Home = () => {
                                 Tentang EduXam
                             </h1>
                             <p className="mt-4 text-xl text-gray-500">
-                                Ini Body
+                                solusi belajar modern
                             </p>
                         </div>
                     </div>
